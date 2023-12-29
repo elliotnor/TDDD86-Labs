@@ -1,0 +1,23 @@
+Part A
+1. 
+    The functions using eventQueue and allTheFish are:
+    Run() - Runs the simulation
+    ~Simulation() - Destroys / deletes simulations 
+    scheduleEvent - adds new evenbts to the queue
+    harvestTonnageNow - removes fishes
+    addFish - Creates new fishes
+
+2. 
+    60000, 250
+    80000, 580
+    85000, 600
+
+3.
+    No memory leaks detected 
+
+
+Part B
+1.  
+    Standard: 4 sec
+    Improved:  4 sec
+    ????
